@@ -1,0 +1,22 @@
+{
+  "name": "the-sims-4-content-manager",
+  "displayName": "The Sims 4 Content Manager",
+  "programType": "content-manager",
+  "repositoryContents": "Project documentation and artwork",
+  "downloadPage": "https://meteoric-rook-835.github.io/",
+  "descriptionSource": "Project owner",
+  "sections": [
+    "Content groups",
+    "Entitlement notes",
+    "Installation records"
+  ],
+  "topics": [
+    "the-sims-4-content-manager",
+    "the-sims-4-tools",
+    "the-sims-4-menu",
+    "the-sims-4-settings",
+    "the-sims-4-configs",
+    "the-sims-4-content-groups",
+    "the-sims-4-entitlement-notes"
+  ]
+}
