@@ -47,3 +47,4 @@ The button and cover open the project's download page. Use the information suppl
 ---
 
 The Sims 4 Content Manager · Program documentation and download information.
+                                                                                                    
